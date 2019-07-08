@@ -2,7 +2,6 @@
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{D7694A8B-FF6B-4B09-8B9B-E0D7E61C0317}" Type="Ref">/My Computer/TDMS datalogger editor node.lvclass/Dynamic File Name Tag</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
